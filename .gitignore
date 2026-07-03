@@ -4,3 +4,7 @@ env/
 .env/
 ENV/
 .env
+git rm -r --cached src/__pycache__
+git rm -r --cached screenshots
+
+__pycache__
